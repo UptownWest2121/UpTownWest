@@ -1,2 +1,2 @@
-# UpTownWest
-Explore More, Live Better
+# Uptown West
+Explore More. Live Better.
